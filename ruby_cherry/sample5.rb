@@ -1,0 +1,3 @@
+def gretel
+  'こんにちは'
+end
